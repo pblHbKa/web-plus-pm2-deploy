@@ -139,6 +139,6 @@ class Api {
   }
   }
   // Замените на адрес вашего бэкенда
-  const api = new Api('https://api.pblhbka.nomoreparties.co/');
+  const api = new Api('https://api.pblhbka.nomoreparties.co');
 
   export default api;
