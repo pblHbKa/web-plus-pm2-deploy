@@ -6,7 +6,6 @@ const {
 } = process.env;
 
 module.exports = {
-  // Настройка деплоя
   deploy: {
     production: {
       user: DEPLOY_USER,
